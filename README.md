@@ -1,4 +1,4 @@
-# File Editor
+# TRAE File Editor
 
 A comprehensive skill that teaches how to use the Write tool for various file editing operations.
 
