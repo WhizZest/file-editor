@@ -1,6 +1,6 @@
 ---
 name: "file-editor"
-description: "Teaches how to use Write tool for file editing: full write, SEARCH/REPLACE, append to end, insert at start. Invoke when editing files."
+description: "Teaches how to use Write tool for file editing: full write, SEARCH/REPLACE, append to end, insert at start. Invoke when editing files. IMPORTANT: This skill is TRAE-specific and uses TRAE's Write tool - not compatible with other agent environments."
 ---
 
 # File Editor
